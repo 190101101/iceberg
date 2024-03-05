@@ -59,6 +59,21 @@ body ::selection {
     z-index: -1;
 }
 
+.iceberg-content2{
+	top: 0;
+	left: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-image: url('../images/iceberg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.2;
+    z-index: -1;
+}
+
+
 
 .header{
 	color: red;
