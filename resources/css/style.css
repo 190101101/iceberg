@@ -62,7 +62,7 @@ body ::selection {
 .iceberg-content2{
 	top: 0;
 	left: 0;
-    height: 100%;
+    width: 100%;
     position: absolute;
     background-image: url('../images/iceberg.png');
     background-position: center;
