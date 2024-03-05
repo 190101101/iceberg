@@ -63,7 +63,7 @@ body ::selection {
 	top: 50%;
 	left: 0;
     width: 100%;
-	height:1000px;
+	height:2000px;
     position: absolute;
     background-image: url('../images/iceberg.png');
     background-position: center;
